@@ -8,5 +8,3 @@ Assignment code will also become available via this Github repository. You are f
 
 *However*, please be aware that any repository containing your assignment code **must** be made private. Any repository with assignment code that is public available, or found to be shared with other students, will be considered a violation of the academic integrity policy.
 
-
-this is a test 
